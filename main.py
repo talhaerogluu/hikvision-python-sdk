@@ -6,9 +6,9 @@ from datetime import datetime, timedelta
 from hikvision import HikvisionClient, PTZAuxCommand
 
 # --- AYARLAR ---
-IP = "31.141.213.161"
-USER = "admin"
-PASS = "Aa124578."
+IP = ""
+USER = ""
+PASS = ""
 PORT = 80
 
 # Kanal Ayarları (Termal Kamera İçin)
