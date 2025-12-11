@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+hikvision_lib.egg-info/
+dist/
+build/
